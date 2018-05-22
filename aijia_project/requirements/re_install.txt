@@ -6,3 +6,4 @@ flask-sqlalchemy
 pymysql
 flask-debugtoolbar
 redis
+Markdown
